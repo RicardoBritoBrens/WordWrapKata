@@ -1,0 +1,13 @@
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.exe
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.deps.json
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.runtimeconfig.json
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.runtimeconfig.dev.json
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.dll
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\bin\Debug\netcoreapp3.1\WordWrap.pdb
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.csprojAssemblyReference.cache
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.AssemblyInfoInputs.cache
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.AssemblyInfo.cs
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.dll
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.pdb
+C:\Workspace\.NET\Katas\WordWrap\WordWrap\WordWrap\obj\Debug\netcoreapp3.1\WordWrap.genruntimeconfig.cache
